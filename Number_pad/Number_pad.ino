@@ -29,8 +29,7 @@ void loop(){
   
   // Print if key pressed
   if (key){
-    Serial.print("Key Pressed : ");
-    Serial.println(key);
+    
     if (key=='A'){
       keyinput="";
       lcd.setCursor(0, 1);
