@@ -19,7 +19,7 @@ void setup()   {
 
   // Clear the buffer.
   display.clearDisplay();
-
+}
 
 void loop() {
   // Display Text
@@ -90,5 +90,5 @@ void loop() {
 //  rotatetext++;
 //  }
 //}
- }
+ //}
 }
